@@ -1,4 +1,6 @@
-# bruno-portfolio
+# bruno-portfolio - WIP 
+
+*****WORK IN PROGRESS*****
 
 2021 | Portfolio using the React framework NextJS + Vercel
 
